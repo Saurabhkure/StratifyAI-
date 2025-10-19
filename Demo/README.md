@@ -18,17 +18,16 @@ Snowflake acts as the **central data warehouse and analytics layer** for structu
 - Maintain explainable, auditable, and scalable data workflows  
 
 #### **Access Instructions**
-Replace placeholders with your actual credentials before use:
 ```bash
-Login URL: <your_snowflake_login_url>
-User ID: <your_user_id>
-Password: <your_password>
+Login URL: fqagalo-de75672.snowflakecomputing.com/console/login
+User ID: SaurabhK
+Password: Everydaywakeupat@550
 ```
 
 #### **Database Information**
 | Property | Value |
 |-----------|--------|
-| **Database Name** | `FIRSTDB` |
+| **Database Name** | `STRATIFYAIDB` |
 | **Schema** | `PUBLIC` |
 
 #### **Table Overview**
@@ -57,12 +56,11 @@ n8n automates the orchestration of the end-to-end data pipeline — from fetchin
 - **Automation:** Handles scheduling, retries, and data monitoring seamlessly.  
 
 #### **Access Instructions**
-Replace placeholders with your credentials before accessing:
 ```bash
-Login URL: <your_n8n_login_url>
-Account Name: <your_account_name>
-Email: <your_email>
-Password: <your_password>
+Login URL: https://app.n8n.cloud/login
+Account Name: h2s-hackthon
+Email: sourabhkure8@gmail.com
+Password: Scram@411
 ```
 
 ---
