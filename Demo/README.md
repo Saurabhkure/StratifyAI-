@@ -1,4 +1,4 @@
-# 🧠 StratifyAI – Signal Extraction Automation Workflow
+# 🧠 Access StratifyAI – Signal Extraction Automation Workflow
 
 ## 📘 Overview  
 The **StratifyAI Automation Workflow** is an AI-powered system that merges **real-time stock market data** and **financial news** to generate, validate, and explain trading signals.  
